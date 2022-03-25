@@ -1,4 +1,5 @@
 ## Argument Games Simulation System
+An argument games simulator with interface based on augumentation theory.
 ### Run codes
     $ cd src
     $ python simulator.py
